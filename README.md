@@ -1,2 +1,2 @@
-# ford-dev-assets
+# Media Assets
 Assets for blog e.t.c.
